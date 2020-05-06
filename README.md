@@ -1,4 +1,4 @@
-# Hypertube
+# Hypeertube
 42 Webtorrent Streaming project<br><br>
 ![Hypertube](https://i.ibb.co/VTGZ7qK/movies-final.png)
 

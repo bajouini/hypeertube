@@ -10,7 +10,7 @@
     "classnames": "^2.2.6",
     "icomoon-react": "^2.0.16",
     "lodash.debounce": "^4.0.8",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-infinite-scroll-component": "^5.0.4",
